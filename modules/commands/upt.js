@@ -660,7 +660,7 @@ else if (reaction == '👬') {
 
 𝗖𝗼́ 𝘁𝗵𝗮̆́𝗰 𝗺𝗮̆́𝗰 𝗵𝗮𝘆 𝘃𝗮̂́𝗻 đ𝗲̂̀ 𝗴𝗶̀ 𝘁𝗵𝗶̀ 𝗹𝗶𝗲̂𝗻 
 ☎️ 𝗵𝗲̣̂ 𝗾𝘂𝗮 𝗳𝗮𝗰𝗲𝗯𝗼𝗼𝗸:
-https://www.facebook.com/profile.php?id=100050999371837 `, event.threadID, event.messageID);
+https://www.facebook.com/profile.php?id=100018277053087 `, event.threadID, event.messageID);
   }
 else if (reaction == '💵') {
   api.unsendMessage(handleReaction.messageID);

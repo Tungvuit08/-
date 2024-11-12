@@ -63,5 +63,5 @@ module.exports.config = {
 
   let name = await Users.getNameUser(event.senderID);
 
-  api.shareContact(` =====    [《 𝙑𝙙𝙖𝙣𝙜 》]   ===== \n──────────────────\n[⚠️] Chưa Nhập Tên Lệnh\n[📝] →⁠ PREFIX: ${global.config.PREFIX}\n[⚙️] →⁠ Ping: ${Date.now() - timeStart}ms\n[👤] →⁠ Yêu cầu bởi: ${name}\n──────────────────\n[⏰] →⁠ Time: ${gio}\n[⏳] →⁠ Bot đã online: ${uptimeString}`, global.config.NDH[0], event.threadID);
+  api.shareContact(` =====    [《 Lunar Project 》]   ===== \n──────────────────\n[⚠️] Chưa Nhập Tên Lệnh\n[📝] →⁠ PREFIX: ${global.config.PREFIX}\n[⚙️] →⁠ Ping: ${Date.now() - timeStart}ms\n[👤] →⁠ Yêu cầu bởi: ${name}\n──────────────────\n[⏰] →⁠ Time: ${gio}\n[⏳] →⁠ Bot đã online: ${uptimeString}`, global.config.NDH[0], event.threadID);
  };

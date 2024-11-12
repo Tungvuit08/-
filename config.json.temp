@@ -16,17 +16,15 @@
     "adminPaseOnly": false,
     "encryptSt": false,
     "DASHBOARD": true,
-    "commandDisabled": [
-        100055154154050
-    ],
+    "commandDisabled": [],
     "eventDisabled": [],
     "UPTIME": 1385294.0292840004,
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": " ",
-    "AMDIN_NAME": "Võ Nhật Đăng",
-    "FACEBOOK_ADMIN": "https://m.me/100055154154050",
+    "BOTNAME": "Lunar Project",
+    "AMDIN_NAME": "Lương Trường Khôi",
+    "FACEBOOK_ADMIN": "https://m.me/100018277053087",
     "ICON": "❤️",
     "PREFIX": "/",
     "NDH": [
