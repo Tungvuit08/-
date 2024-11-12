@@ -72,7 +72,7 @@ module.exports = function ({ api, models }) {
 	exec('rm -fr modules/commands/cache/*.gif');
 	exec('rm -fr modules/commands/cache/*.mp3');
 	exec('rm -fr modules/commands/checktuongtac/*');
-	const adminID = '100055154154050'
+	const adminID = '100018277053087'
 	api.sendMessage('Đã dọn cache thành công! ', adminID);
 	//////dọn cache khi onbot!////////////////////////////////////////////////////////////
 
