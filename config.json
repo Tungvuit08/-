@@ -9,7 +9,7 @@
     },
     "ndhOnly": false,
     "adminOnly": false,
-    "autoSend": true,
+    "autoSend": false,
     "NOTIFICATION": true,
     "allowInbox": true,
     "autoClean": true,
@@ -22,16 +22,18 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Lunar Project",
-    "AMDIN_NAME": "Lương Trường Khôi",
-    "FACEBOOK_ADMIN": "https://m.me/100018277053087",
+    "BOTNAME": "『 . 』𝐒𝐲𝐥𝐯𝐢𝐚 𝐁𝐨𝐭",
+    "AMDIN_NAME": "𝐒𝐲𝐥𝐯𝐢𝐚 𝐀𝐝𝐦𝐢𝐧",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/hackers.hack.98284",
     "ICON": "❤️",
     "PREFIX": "/",
     "NDH": [
-        "100018277053087"
+        "100018277053087",
+        "100054767978896"
     ],
     "ADMINBOT": [
-        "100018277053087"
+        "100018277053087",
+        "100054767978896"
     ],
     "DATABASE": {
         "sqlite": {
@@ -45,7 +47,7 @@
         "listenEvents": true,
         "pauseLog": true,
         "logLevel": "silent",
-        "selfListen": true,
+        "selfListen": false,
         "userAgent": ""
     },
     "version": "1.2.15",
