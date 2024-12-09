@@ -16,7 +16,7 @@
     "dependencies": {
         "@distube/ytdl-core": "^4.14.4",
         "@miraipr0ject/assets": "^1.0.9",
-        "@đongev/fca-unofficial":"",
+        "@dongdev/fca-unofficial":"",
         "adm-zip": "^0.5.10",
         "aes-js": "^3.1.2",
         "ansi-to-html": "^0.7.2",
